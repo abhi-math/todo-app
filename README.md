@@ -31,10 +31,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:  
    git clone https://github.com/abhi-math/todo-app
 
-2. **install node dependencies**:  
+2. **Change directory to todo-app**:  
+   cd todo-app
+
+3. **install node dependencies**:  
    npm i
 
-3. **Run the project**:  
+4. **Run the project**:  
    npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
