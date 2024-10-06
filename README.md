@@ -28,13 +28,13 @@ A simple Todo application that allows users to add, delete, and search through t
 
 To get started with this project, follow these steps:
 
-1. **Clone the repository**:
-   git clone <url>
+1. **Clone the repository**:  
+   git clone https://github.com/abhi-math/todo-app
 
-2. \*\*install node dependencies
+2. **install node dependencies**:  
    npm i
 
-3. \*\*Run the project
+3. **Run the project**:  
    npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
